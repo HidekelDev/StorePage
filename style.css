@@ -1,0 +1,31 @@
+
+#ofertas {
+  background: linear-gradient(to right, #ff5f6d, #ffc371);
+  border-radius: 12px;
+  padding: 30px 20px;
+  margin-bottom: 40px;
+}
+#ofertas h2 {
+  color: white;
+}
+
+
+#carrusel {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  border-radius: 12px;
+  padding: 30px 20px;
+  margin-top: 40px;
+}
+#carrusel h2 {
+  color: white;
+}
+
+.card-img-top {
+  height: 250px;
+  object-fit: contain;
+}
+
+body {
+  background: linear-gradient(to top, #7e93cb, hwb(0 100% 0%));
+}
+
